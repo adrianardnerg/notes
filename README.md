@@ -17,3 +17,6 @@ Let's GO
 5. Read and contribute to open-source projects: By reading and contributing to projects on GitHub, you can learn from experienced developers and practice writing code that others will review.    
 6. Keep up with industry news and trends: Follow blogs, podcasts, newsletters, social media accounts, etc. to Stay informed about new tools, technologies, best practices, industry shifts,etc.     
 7. Seek help and feedback: Don' t be afraid to ask for help or feedback. Reach out to your colleagues, friends,or even strangers on Stack Overflow. They might have valuable insights that can help improve your coding skills.
+
+# 2023-11-18
+- "Write code that is easy to understand and maintain. Use clear and descriptive variable names, write concise and well-structured functions, and avoid unnecessary complexity. Remember that code is read more often than it is written, so make it easy for others (and your future self) to read and understand."
