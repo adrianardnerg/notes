@@ -42,3 +42,6 @@ Second, always plan your day or week ahead of time. Write down your goals for th
 
 # 2023-11-24
 - "Keep it simple, stupid!"
+
+# 2023-11-25
+- "Today's programming wisdom is to focus on writing clean, readable, and maintainable code. It's not just about making it work, but also about making it easy for others (and your future self) to understand and modify. Invest time in planning, use meaningful variable names, write comments, and follow best practices and style guides. Remember, code is read more often than it's written, so make it a joy to read."
