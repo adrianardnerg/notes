@@ -48,3 +48,8 @@ Second, always plan your day or week ahead of time. Write down your goals for th
 
 # 2023-11-26
 - "Today's programming wisdom is to focus on writing clean, maintainable, and reusable code. It's not just about solving the problem at hand, but also about considering how your code will be used in the future and by others. Invest time in planning, documenting, and testing your code to ensure its quality and longevity. Remember, programming is not just about writing code, it's also about collaboration, communication, and continuous learning."
+
+# 2023-11-27
+- "Every programmer should know that debugging is twice as hard as writing the code in the first place. Therefore, if you write your code as cleverly as possible, you are, by definition, not smart enough to debug it." - Brian Kernighan
+
+This quote highlights the importance of writing clean, simple, and understandable code rather than overly complex and "clever" code. It is easier to debug and maintain code that is straightforward and follows best practices, compared to code that is difficult to read and understand.
