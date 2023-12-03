@@ -70,3 +70,6 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-02
 - "Keep it simple, stupid!"
+
+# 2023-12-03
+- "Keep it simple, stupid!"
