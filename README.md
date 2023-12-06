@@ -81,3 +81,6 @@ Focus on writing clean, readable code first and optimize only when necessary. Me
 
 # 2023-12-05
 - Today's programming wisdom is to prioritize readability and maintainability in your code. Writing clean, well-organized code that is easy to understand and modify will save time and headaches in the long run, especially when working on large projects or with a team. Use descriptive variable names, comments, and consistent formatting to make your code more accessible to others (and your future self!). Remember that code is read far more often than it is written, so invest the extra effort to make it clear and concise.
+
+# 2023-12-06
+- Today's programming wisdom is to "write code that is easy to delete, not easy to extend." This means that instead of trying to anticipate all possible future changes and building in flexibility from the start, it's better to write simple, concise code that does exactly what it needs to do right now. This makes it easier to understand and maintain, and if changes are needed later on, it's easier to delete the old code and replace it with something new than it would be to try to modify complex, overly flexible code.
