@@ -108,3 +108,8 @@ Second, planning ahead is crucial for success. Before starting a new project or 
 
 # 2023-12-11
 - Today's programming wisdom is to prioritize writing clean, readable, and maintainable code over clever or complex code. It's better to have a simple solution that works than a complicated one that nobody understands. Additionally, it's important to write automated tests to ensure your code functions correctly and to make refactoring easier. Finally, remember that programming is a collaborative effort, so communicate effectively with your team, document your code, and be open to feedback and suggestions.
+
+# 2023-12-12
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to unnecessary complexity and may even introduce bugs. It's better to write clear, simple code first and optimize only when profiling indicates that a specific part of the code is causing performance issues.
