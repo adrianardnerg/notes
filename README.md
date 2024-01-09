@@ -240,3 +240,6 @@ To be successful, it is essential to have a solid foundation in core programming
 4. Attend conferences and workshops: Participate in tech conferences, meetups, workshops, online courses, etc., where you can learn from industry experts, network with fellow developers, discover new techniques, tools and technologies, as well as stay updated with current trends in your field.   
 5. Collaborate with others: Team up with other developers to build projects, share knowledge, solve problems, learn new skills, improve communication and collaboration skills. It'll also be a great opportunity to learn how others approach problems and develop new ideas.    
 6. Solve real-world problems: Try to apply your programming skills to real world problems. By doing so, you' ll gain practical experience, understand how technology can be used to solve real issues, develop a better understanding of the business side of things, which is crucial for a successful career in technology.
+
+# 2024-01-09
+- "Keep it simple, stupid!"
