@@ -352,3 +352,6 @@ Secondly, planning ahead is crucial. Make sure you have a plan for your day, wee
 
 Use task management tools, such as Trello or Asana, to keep track of your tasks and deadlines. These tools will provide you with a visual overview of all your assignments, allowing you see what still needs to get done and what has been completed. Additionally, set reminders for yourself to stay on track and avoid procrastinating. 
  - 来自NLP
+
+# 2024-02-04
+- "Keep it simple, stupid!"
