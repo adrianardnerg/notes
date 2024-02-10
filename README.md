@@ -387,3 +387,10 @@ Optimization without a thorough understanding of where performance bottlenecks l
 - Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By constantly updating your knowledge and skills, you can become a well-rounded and valuable asset to any team or project.
 
 Another important aspect of programming wise is problem-solving. When faced with a challenging problem, take a step back, break it down into smaller, more manageable tasks, then use critical thinking and creativity to come up with innovative solutions. Practice debugging and refactoring code, which can help you identify and fix errors more efficiently. Finally, remember that collaboration is key, working together with others to achieve common goals and learn from each other' s experiences.
+
+# 2024-02-10
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest trends and technologies, such as artificial intelligence, machine learning, and the internet of things.
+
+To be successful in the programming field, you should also have a strong foundation in core programming concepts, like data structures, algorithms, software engineering, version control, testing, debugging, etc. Additionally, learning to code in multiple programming languages is a valuable asset, as it allows you to work with various technologies and teams. 
+ - 学习编程语言和框架。了解最新的编程趋势和技术，如人工智能、机器学习和物联网。
+- 有扎实的基础知识，包括数据结构、算法、软件工程、版本控制、测试和调试等。 学会在多个编程环境中工作。-保持好奇心，探索新技术和工具。不断学习和实践，提高编程技能。
