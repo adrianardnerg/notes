@@ -394,3 +394,6 @@ Another important aspect of programming wise is problem-solving. When faced with
 To be successful in the programming field, you should also have a strong foundation in core programming concepts, like data structures, algorithms, software engineering, version control, testing, debugging, etc. Additionally, learning to code in multiple programming languages is a valuable asset, as it allows you to work with various technologies and teams. 
  - 学习编程语言和框架。了解最新的编程趋势和技术，如人工智能、机器学习和物联网。
 - 有扎实的基础知识，包括数据结构、算法、软件工程、版本控制、测试和调试等。 学会在多个编程环境中工作。-保持好奇心，探索新技术和工具。不断学习和实践，提高编程技能。
+
+# 2024-02-11
+- "Keep it simple, stupid!"
