@@ -536,3 +536,9 @@ Second, use time management techniques to your advantage. Break down your projec
 
 # 2024-03-13
 - "Keep it simple, stupid!"
+
+# 2024-03-14
+# 2024-03-14
+- Today's programming wisdom is to be a lifelong learner, always eager to learn new skills and adapt to new technologies. This means staying up-to-date with the latest trends and developments in the programming world, and always being open to the idea of trying new things.
+
+To achieve this, it is essential to develop a growth mindset, which means believing that you can improve and learn from your mistakes. Always be open-minded and willing to ask for help, as this will help you to grow as a programmer and develop your problem-solving skills. Remember that every challenge is an opportunity to learning and grow.
