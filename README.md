@@ -545,3 +545,7 @@ To achieve this, it is essential to develop a growth mindset, which means believ
 
 # 2024-03-15
 - "Keep it simple, stupid!"
+
+# 2024-03-16
+# 2024-03-17
+- "Keep it simple, stupid!"
